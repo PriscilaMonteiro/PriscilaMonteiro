@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning ...how to build elegant and stunning Apps using Flutter and creating attractive Web Sites via WordPress.
 - 👯 I’m looking to collaborate on ...something meaningful .
 - 💬 Ask me about ...Brazil and we will have a lot to talk! ->assunto para mais de metro<-
-- ⚡ Fun fact ...I am a former Nurse Assistant. 
+- ⚡ Fun fact ...It took Brendan Eich only 10 days to develop JavaScript, then known as Mocha. What can you do in 10 days? 
 
 I'm a Web Developer who works with React on the frontend, and Node via the Express framework on the backend. <br />
 I'm currently a student at the Bloom Institute of Technology working to build and improve my technical and interpersonal developer skills.
