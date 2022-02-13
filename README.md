@@ -2,7 +2,7 @@
 
 ### Hi there! I am Priscila. 👋
 
-- 🔭 I’m currently working on ...a Full Stack App that assist Impaired patients communicate with Nurses.
+- 🔭 I’m currently working on ...CoderHeroes web site as an UX Engineer.
 - 🌱 I’m currently learning ...how to build elegant and stunning Apps using Flutter and creating attractive Web Sites via WordPress.
 - 👯 I’m looking to collaborate on ...something meaningful .
 - 💬 Ask me about ...Brazil and we will have a lot to talk! ->assunto para mais de metro<-
