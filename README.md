@@ -26,7 +26,6 @@ I can't fix the world's problems but I do what I can to make a âœ¨ difference âœ
 
 ### My Skill Set: 
 <p>
-  <img src="https://images.credly.com/size/340x340/images/7e3ea1ad-9b8e-44c4-ad9c-219aae5d89ab/image.png" alt="Full-stack badge"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html badge"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css badge"/>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript badge"/>
@@ -65,6 +64,9 @@ I can't fix the world's problems but I do what I can to make a âœ¨ difference âœ
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="netlify badge"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel badge"/>
 </p>
+
+### Proud to show that it is never too late to learn:
+<img src="https://images.credly.com/size/340x340/images/7e3ea1ad-9b8e-44c4-ad9c-219aae5d89ab/image.png" alt="Full-stack badge"/>
 
 
 <!--
