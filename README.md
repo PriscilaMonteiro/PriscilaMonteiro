@@ -26,6 +26,7 @@ I can't fix the world's problems but I do what I can to make a âœ¨ difference âœ
 
 ### My Skill Set: 
 <p>
+  <img src="https://www.credly.com/badges/08cbff44-0087-4805-8ed5-1f4f81fddea0/public_url" alt="Full-stack badge"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html badge"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css badge"/>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript badge"/>
