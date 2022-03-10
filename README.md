@@ -66,7 +66,10 @@ I can't fix the world's problems but I do what I can to make a âœ¨ difference âœ
 </p>
 
 ### Proud to show that it is never too late to learn:
-<img src="https://images.credly.com/size/340x340/images/7e3ea1ad-9b8e-44c4-ad9c-219aae5d89ab/image.png" alt="Full-stack badge"/>
+<a href="https://www.credly.com/badges/08cbff44-0087-4805-8ed5-1f4f81fddea0?source=linked_in_profile" target="_blank">
+    <img align="left" alt="Priscila Monteiro | Full-stack badge" width="24px" src="https://images.credly.com/size/340x340/images/7e3ea1ad-9b8e-44c4-ad9c-219aae5d89ab/image.png" />
+  </a>
+
 
 
 <!--
